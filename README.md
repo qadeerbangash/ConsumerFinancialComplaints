@@ -27,7 +27,6 @@ This project is designed to provide insights into consumer financial complaints 
 	streamlit run test3.py
 
 ## Screenshots
-![Screenshot from 2023-11-11 19-02-01](https://github.com/qadeerbangash/ConsumerFinancialComplaints/assets/64665560/84b7cb3e-f2ff-4f32-9959-1a1ceced0081)
 ![Screenshot from 2023-11-11 19-02-54](https://github.com/qadeerbangash/ConsumerFinancialComplaints/assets/64665560/87e51d94-64e3-4300-a659-86ef91d4e680)
 ![Screenshot from 2023-11-11 19-03-43](https://github.com/qadeerbangash/ConsumerFinancialComplaints/assets/64665560/6a0b5227-de06-4b1e-9f3a-9b351366a49a)
 ![Screenshot from 2023-11-11 19-04-03](https://github.com/qadeerbangash/ConsumerFinancialComplaints/assets/64665560/1a5256ad-e568-4221-a0d6-32c2fcbc1ff4)
